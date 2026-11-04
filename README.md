@@ -23,6 +23,7 @@ Minecraft mod access repository for DinosaurDropsAreGuns
 <!-- BLUMECORE-YOUTUBER:k1kEVBuT4gCNj53WJUjG:START -->
 2c6cf2f9-d09c-4aa9-a472-da28833155fd
 89b95fa2-fc63-4b3f-b5c9-4c042361f286
+b9bf7d13-c8e7-4eab-a8f3-462a448ac9ce
 c273e1c6-748e-4dbe-beb4-c2ae4d3ef50e
 <!-- BLUMECORE-YOUTUBER:k1kEVBuT4gCNj53WJUjG:END -->
 
